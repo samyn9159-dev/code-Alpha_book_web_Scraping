@@ -24,21 +24,16 @@ Data Collected
 - Availability
 
 Output
-
 The scraped book data is stored in a CSV file.
 
 Website
-
 https://books.toscrape.com/
 
 Project Files
-
 - book_scraper(1).py
 - books_data(1).csv
 
 Author 
 K.Samynathan
-
-Author
 
 Your Name
